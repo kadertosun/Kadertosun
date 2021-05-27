@@ -3,7 +3,7 @@
 
 ⚡Github profilim şuanda dolu değil ama artık aktif kullanıp tüm projelerimi buraya toplamaya karar verdim.(03.05.2021) <br>
 🌱web uygulama geliştirme, otomasyon sistemleri ve mobil ile ilgileniyorum.<br>
-✨C# dan vazgeçemiyorum😂<br>
+✨C# dan vazgeçemiyorum🤩<br>
 🎉Başlayalım bakalımmm(2:48)🤞
 
 
