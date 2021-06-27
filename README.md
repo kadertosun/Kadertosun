@@ -1,31 +1,61 @@
 
-### Merhabalar👋
+### Selamm ben Kader👋
 
-⚡Github profilim şuanda dolu değil ama artık aktif kullanıp tüm projelerimi buraya toplamaya karar verdim.(03.05.2021) <br>
-🌱web uygulama geliştirme, otomasyon sistemleri ve mobil ile ilgileniyorum.<br>
-✨C# dan vazgeçemiyorum🤩<br>
-🎉Başlayalım bakalımmm(2:48)🤞
+🌱Web programlama, Mobil uygulama geliştirme ve Otomasyon sistemleri ile ilgileniyorum.<br>
+📝Javascript öğreniyorum.<br>
+⚡Şu anda Frontend ile ilgileniyorum.🤩<br>
+✨Karşımıza çıkan engelleri aşmak için.<br>
+🎉Başlayalım bakalımmm(2:48)🤞<br>
+⚡(03.05.2021) <br>
+
 
 
 
 <br>
 <br>
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/source.gif" >
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" >
 
-### Reach out to me
+### Sosyal Medya Hesaplarım
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" />][medium]
+[<img width="22" src="https://i.hizliresim.com/3r1ktea.png" />][linkedin]
+[<img width="22" src="https://i.hizliresim.com/2vaquq2.png" />][medium]
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kadertosun&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadertosun&layout=compact&theme=radical">
                                                                                                    
 [linkedin]:https://www.linkedin.com/in/kader-tosun-276710180/
 [medium]:https://kaderleyazilim.medium.com/
 
+
+
+### Kullandığım Diller ve Platformlar:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="AndroidStudio" width="26px" src="https://i.hizliresim.com/f0iepcj.png" />
+<img align="left" alt="VisualStudio" width="26px" src="https://i.hizliresim.com/4yj7h1a.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Github" width="26px" src="https://i.hizliresim.com/zjfr1hi.png" />
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Durumu</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=kadertosun&theme=radical">
+
+</details><br>
+
+<details>
+  <summary>:zap: En çok Kullanılan Diller</summary>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadertosun&layout=compact&theme=radical">
+
+</details>
 
 
 <!--
