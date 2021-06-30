@@ -2,8 +2,8 @@
 ### Selamm ben Kader👋
 
 🌱Web programlama, Mobil uygulama geliştirme ve Otomasyon sistemleri ile ilgileniyorum.<br>
-📝Javascript öğreniyorum.<br>
-⚡Şu anda Frontend ile ilgileniyorum.🤩<br>
+📝C# ve Javascript öğreniyorum.<br>
+⚡Frontend ve backend bir arada götürmeye çalışıyorum.🤩<br>
 ✨Karşımıza çıkan engelleri aşmak için.<br>
 🎉Başlayalım bakalımmm(2:48)🤞<br>
 ⚡(03.05.2021) <br>
@@ -42,6 +42,7 @@
 
 <br />
 <br />
+<br>
 ---
 
 <details>
