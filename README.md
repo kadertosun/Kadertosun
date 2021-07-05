@@ -46,13 +46,13 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Durumu</summary>
+  <summary>:zap: GitHub stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kadertosun&theme=radical">
 
 </details><br>
 
 <details>
-  <summary>:zap: En çok Kullanılan Diller</summary>
+  <summary>:zap: Most used languages</summary>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadertosun&layout=compact&theme=radical">
 
